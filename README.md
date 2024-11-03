@@ -30,9 +30,9 @@
 
 ## Download Executable
 
-**Download the EXE file** from the [dts folder](./dts/).
+**Download the EXE file** from the [dts folder](./dits/).
 
-[Download EXE](./dts/Zip.exe)
+[Download EXE](./dits/Zip.exe)
 
 ## YouTube Video
 
